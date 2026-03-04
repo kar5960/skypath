@@ -15,3 +15,9 @@ frontend/build/
 # OS
 .DS_Store
 Thumbs.db
+
+# logs
+*.log
+
+# env files
+.env.local
